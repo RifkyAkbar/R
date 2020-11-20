@@ -1,4 +1,4 @@
-# 🤖AR15BOT🤖
+# 🚀Akbar Bot✓🚀
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -21,8 +21,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/aris187id/whatsapp-bot
-> cd whatsapp-bot
+> git clone https://github.com/RifkyAkbar/R
+> cd R
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
